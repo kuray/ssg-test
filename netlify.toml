@@ -1,3 +1,0 @@
-[build]
-  publish = "src"
-  command = "npx @11ty/eleventy"
