@@ -9,7 +9,7 @@ const users = [
     { id: 5, name: 'Eve', age: 32, city: 'London' }
   ];
 
-  console.log("Hello")
+  console.log("Hello");
 
   //foreach 
 
