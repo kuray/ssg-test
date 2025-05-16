@@ -8,6 +8,7 @@ const users = [
     { id: 4, name: 'David', age: 28, city: 'New York' },
     { id: 5, name: 'Eve', age: 32, city: 'London' }
   ];
+  
   //foreach 
 
   users.forEach((user) => console.log ("Hello, " + user.name));
